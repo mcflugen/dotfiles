@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/huttone/git/wmt/wmt/flask/views'
+let g:netrw_dirhist_2='/Users/huttone/git/cem-new'
+let g:netrw_dirhist_3='/Users/huttone/git/landlab/.travis'
+let g:netrw_dirhist_4='/Users/huttone/git/bmi/bindings/python/testing'
+let g:netrw_dirhist_5='/Users/huttone/git/bmi-python/.travis'
+let g:netrw_dirhist_6='/Users/huttone/git/landlab/.travis'
+let g:netrw_dirhist_7='/Users/huttone/git/landlab-landlab/.travis'
